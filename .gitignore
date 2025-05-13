@@ -1,1 +1,6 @@
-/efw
+/docker-config/mariadb
+/efw/bootstrap
+/efw/lang
+/efw/node_modules
+/efw/tests
+/efw/vendor
