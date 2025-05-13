@@ -16,6 +16,11 @@
 
                     {{ __('You are logged in!') }}
                 </div>
+				<div>
+                    <div class="links">
+                        <a href="./fabric">My FabricJS Ver2.4-5.3 Sample</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

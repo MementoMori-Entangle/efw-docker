@@ -20,3 +20,6 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/fabric', [App\Http\Controllers\FabricController::class, 'index'])->name('fabric');
+Route::post('/fabric', [App\Http\Controllers\FabricController::class, 'store'])->name('fabric');
+Route::delete('/fabric/{id}', [App\Http\Controllers\FabricController::class, 'destroy'])->name('fabric');
