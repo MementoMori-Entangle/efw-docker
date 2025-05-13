@@ -2,5 +2,6 @@
 /efw/bootstrap
 /efw/lang
 /efw/node_modules
+/efw/storage
 /efw/tests
 /efw/vendor
