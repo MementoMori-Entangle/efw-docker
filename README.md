@@ -1,7 +1,7 @@
 # EFW
 
 2019年から放置していたものの、IT業界復帰に向けて2025年版として  
-dokler-composeでlaravelとして作り直してみました。
+docker-composeでlaravelとして作り直してみました。
 
 # Step1
 ・テンプレート作成  
