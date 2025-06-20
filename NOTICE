@@ -1,0 +1,47 @@
+本プロジェクトでは基本MITとApache-2.0のライブラリを使用しています。
+一部にBSD 3-Clauseのライブラリを使用しています。
+
+GraphicsJS (AnyChart) (BSD 3-Clause License) ファイルヘッダ記載
+
+## ライブラリライセンス一覧
+
+### 主要ライブラリ
+
+| ライブラリ/ファイル名                  | ライセンス        | 備考・出典             |
+|---------------------------------------|------------------|------------------------|
+| jQuery                               | MIT              | ファイルヘッダ/公式     |
+| jQuery UI                            | MIT              | ファイルヘッダ/公式     |
+| jQuery contextMenu                   | MIT              | 公式GitHub             |
+| GraphicsJS (AnyChart)                | BSD 3-Clause     | ファイルヘッダ          |
+| CreateJS (EaselJS, PreloadJS, etc.)  | MIT              | ファイルヘッダ          |
+| Fabric.js                            | MIT              | 公式GitHub             |
+| CodeMirror                           | MIT              | 公式GitHub             |
+| Mergely                              | MIT              | 公式GitHub             |
+| Bootstrap, Popper.js, Axios, etc.    | MIT              | npm公式/各公式         |
+
+---
+
+### npmパッケージ一覧
+
+| パッケージ名           | バージョン | ライセンス    | 参考URL                                                         |
+|------------------------|------------|--------------|------------------------------------------------------------------|
+| @popperjs/core         | 2.11.8     | MIT          | https://github.com/popperjs/popper-core/blob/main/LICENSE.md      |
+| @tailwindcss/vite      | 4.1.5      | MIT          | https://github.com/tailwindlabs/tailwindcss/blob/master/LICENSE   |
+| axios                  | 1.9.0      | MIT          | https://github.com/axios/axios/blob/master/LICENSE                |
+| bootstrap              | 5.3.6      | MIT          | https://github.com/twbs/bootstrap/blob/main/LICENSE               |
+| concurrently           | 9.1.2      | MIT          | https://github.com/open-cli-tools/concurrently/blob/master/LICENSE.md |
+| laravel-vite-plugin    | 1.2.0      | MIT          | https://github.com/laravel/vite-plugin/blob/main/LICENSE.md       |
+| sass                   | 1.87.0     | MIT          | https://github.com/sass/dart-sass/blob/main/LICENSE               |
+| tailwindcss            | 4.1.5      | MIT          | https://github.com/tailwindlabs/tailwindcss/blob/master/LICENSE   |
+| vite                   | 6.3.5      | MIT          | https://github.com/vitejs/vite/blob/main/LICENSE                  |
+| esbuild                | 0.25.4     | MIT          | https://github.com/evanw/esbuild/blob/master/LICENSE.md           |
+| rollup                 | 4.40.2     | MIT          | https://github.com/rollup/rollup/blob/master/LICENSE.md           |
+| postcss                | 8.5.3      | MIT          | https://github.com/postcss/postcss/blob/main/LICENSE              |
+| rxjs                   | 7.8.2      | Apache-2.0   | https://github.com/reactivex/rxjs/blob/master/LICENSE.txt         |
+| chokidar               | 4.0.3      | MIT          | https://github.com/paulmillr/chokidar/blob/master/LICENSE         |
+| picomatch              | 4.0.2      | MIT          | https://github.com/micromatch/picomatch/blob/master/LICENSE       |
+| ansi-styles            | 4.3.0      | MIT          | https://github.com/chalk/ansi-styles/blob/main/license            |
+| chalk                  | 4.1.2      | MIT          | https://github.com/chalk/chalk/blob/main/license                  |
+| lodash                 | 4.17.21    | MIT          | https://github.com/lodash/lodash/blob/master/LICENSE              |
+| yargs                  | 17.7.2     | MIT          | https://github.com/yargs/yargs/blob/main/LICENSE                  |
+
